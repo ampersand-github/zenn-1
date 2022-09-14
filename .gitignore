@@ -1,0 +1,22 @@
+# env
+.env
+.env.development
+.env.production
+
+# Docker
+/backend/.docker/containers/mysql/db/
+/backend/.docker/containers/localstack/w
+
+# ide
+/.idea
+
+# ide helper
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+
+# misc
+.DS_Store
+*.pem
+Icon[\r]
+Icon
